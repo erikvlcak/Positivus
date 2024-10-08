@@ -6,4 +6,8 @@
   html {
     font-family: "Space Grotesk", serif, sans-serif;
   }
+
+  * {
+    border: solid 1px red;
+  }
 }
